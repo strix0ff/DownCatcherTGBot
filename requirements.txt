@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+aiosqlite
+alembic
+pydantic
+python-dotenv
+aioping
+redis
+aiogram
+aiofiles
